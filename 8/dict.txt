@@ -1,0 +1,5 @@
+friend 10
+here 10
+lives 10
+my 10
+elvis 8
