@@ -1,7 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <fstream>
-#include <algorithm>
+#include <bits/stdc++.h>
 #define INT u_int16_t
 
 int main(int argc, char** argv)
